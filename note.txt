@@ -1,6 +1,9 @@
 /* npm is used to download JavaScript packages from Node Package Manager, 
    and npx is used to execute JavaScript packages downloaded this way  */
 
+
+############################## Drawer Navigator ########################################
+
 - npm install @react-navigation/native
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/drawer
@@ -12,3 +15,11 @@
 
 after that using this command start the react app
 - npx expo start -c
+
+
+############################## Bottom Tabs Navigator ###################################
+
+- npm install @react-navigation/native
+- npx expo install react-native-screens react-native-safe-area-context
+- npm install @react-navigation/native-stack
+- npm install @react-navigation/bottom-tabs
